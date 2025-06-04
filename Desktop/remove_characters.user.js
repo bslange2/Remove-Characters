@@ -6,8 +6,8 @@
 // @author       Brandon Lange (with help from ChatGPT)
 // @match        https://selfservice.eicc.edu/Student/Planning/Advisors*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/bslange2/Remove-Characters/master/Desktop/remove_characters.js
-// @updateURL    https://raw.githubusercontent.com/bslange2/Remove-Characters/master/Desktop/remove_characters.js
+// @downloadURL  https://github.com/bslange2/Remove-Characters/raw/master/Desktop/remove_characters.user.js
+// @updateURL    https://github.com/bslange2/Remove-Characters/raw/master/Desktop/remove_characters.user.js
 // ==/UserScript==
 
 (function() {
