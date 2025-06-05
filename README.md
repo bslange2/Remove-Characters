@@ -6,6 +6,7 @@ TamperMonkey Script to remove `< >` characters from Self Service
 1. Install and enable the [**Tampermonkey**](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?pli=1) browser extension _(right-click and choose “Open link in new tab”)_
    Click **Add to Chrome** in the top right.  
    ![tampermonkey_add](https://github.com/user-attachments/assets/609eb9c3-c655-41ed-979f-b50951fab879)
+_(and then)_
 ![add_extension](https://github.com/user-attachments/assets/e7728665-10a2-4449-ba25-73ac43cdcdd5)
 
 2. In Chrome, open a new tab and go to `chrome://extensions`  
