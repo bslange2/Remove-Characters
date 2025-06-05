@@ -27,5 +27,10 @@ TamperMonkey Script to remove `< >` characters from Self Service
 ![developer_mode](https://github.com/user-attachments/assets/c2409242-7a92-4257-8087-d230947d8599)
 <br>
 
-5. Install the [**script**](https://raw.githubusercontent.com/bslange2/Remove-Characters/master/Desktop/remove_characters.user.js)  
+5.  Click **Update**
+![update](https://github.com/user-attachments/assets/5f7357b7-bc44-4588-869b-5589c367a0ec)
+<br>
+
+6.  Install the [**script**](https://raw.githubusercontent.com/bslange2/Remove-Characters/master/Desktop/remove_characters.user.js)  
    _(If it doesn’t open in Tampermonkey, right-click and choose “Open link in new tab”)_
+
