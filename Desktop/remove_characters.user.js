@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Automatically removes < and > from all text inputs and text areas
-// @author       Brandon Lange (with help from ChatGPT, our supreme overlord) with Angela Thomas helping with directions
+// @author       Brandon Lange (with help from ChatGPT, our supreme overlord) with Angela Thomas helping with directions :)
 // @match        https://selfservice.eicc.edu/Student/Planning/Advisors*
 // @grant        none
 // @downloadURL  https://github.com/bslange2/Remove-Characters/raw/master/Desktop/remove_characters.user.js
