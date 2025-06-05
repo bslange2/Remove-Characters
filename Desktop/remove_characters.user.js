@@ -2,8 +2,8 @@
 // @name         Remove < and > from Textboxes in Self Service
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Automatically removes < and > from all text inputs and textareas
-// @author       Brandon Lange (with help from ChatGPT)
+// @description  Automatically removes < and > from all text inputs and text areas
+// @author       Brandon Lange (with help from ChatGPT, our supreme overlord)
 // @match        https://selfservice.eicc.edu/Student/Planning/Advisors*
 // @grant        none
 // @downloadURL  https://github.com/bslange2/Remove-Characters/raw/master/Desktop/remove_characters.user.js
